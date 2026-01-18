@@ -40,15 +40,16 @@ git clone [https://github.com/yourusername/desktop-cleaner.git](https://github.c
 cd desktop-cleaner
 ```
 
-```bash
 2. Install Dependencies
    You only need one external library for the magic to happen:
 
+```bash
 pip install watchdog
 ```
 
-```bash
 3. Run the Script
+
+```bash
    python cleaner.py
 ```
 
